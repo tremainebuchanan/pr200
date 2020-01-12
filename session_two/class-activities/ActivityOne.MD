@@ -1,7 +1,10 @@
 # Installing Visual Studio Code (VSCode)
 
-1. [Click here to visit VSCode Websites](https://code.visualstudio.com/) 
-2. From the website, select the appropriate download given the operating system on your laptop ![](/session_two/class-activities/vscode-os-selection.png)
+1. [Click here to visit the VSCode website](https://code.visualstudio.com/) 
+2. From the website, select the appropriate download given the operating system on your laptop: 
+
+![](/session_two/class-activities/vscode-os-selection.png)
+
 3. Upon successfull download, follow the instructions to install VSCode on your laptop. 
 
 # Installing Required Plugins
@@ -15,7 +18,7 @@ Once VSCode is successfully installed, the following plugins should be installed
 * Material Icon Theme
 * Terminal
 
-To install a plugin
+### To install a plugin:
 
 1. Start the VSCode program by clicking the icon representing the VSCode in the respective operating system.
 
